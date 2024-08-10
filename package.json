@@ -1,0 +1,23 @@
+{
+  "name": "@mend-democorp/private-node-package",
+  "version": "1.0.0",
+  "description": "Example of a private node package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mend-DemoCorp/Private-Node-Package.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mend-DemoCorp/Private-Node-Package/issues"
+  },
+  "homepage": "https://github.com/Mend-DemoCorp/Private-Node-Package#readme",
+  "dependencies": {
+    "fuzzball": "^2.1.2",
+    "lodash": "^4.17.20"
+  }
+}
