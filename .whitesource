@@ -1,3 +1,12 @@
 {
-  "settingsInheritedFrom": "Mend-DemoCorp/whitesource-config@main"
+  "settingsInheritedFrom": "Mend-DemoCorp/whitesource-config@main",
+   "hostRules": [
+    {
+      "matchHost" :"https://npm.pkg.github.com",
+      "hostType": "npm",
+      "encrypted" :{
+        "token" :"wcBMA8xOaBJvzJNbAQf/YsBny6HMheNFGmHYNZwbUnDTfGsogxh2MEPIxuxxt455GNOmwQV/dB4IiyR6TE9i/e07bxYEjNFpjdIRiG3BZBjhp+Upc9ac7gCM/cdgTq2fbQjYX99wchyFlwC2ms7aNoE1iQMn2LX10h8eciCYZLrgXPyIV2xVEWQelbjsCmBJzfoX8yA4QHcZnZFM6fgFwV9P6N0zIEnEtaELJ/YhL5j9UB8N5wROnKaqO9s3A1OfJ3IPv8ee4RUP2gsX7WzaxKwn0/FcnoL0rm0Jadx4qecZzk3/tRHuDHRrrUj8xGCjh5rRFUpXWY83iH1/amigwLS+S8Dua2EtET399Xdjy9J8AQ8/joqkkx4LVk/F9rIXNpvGLFWqmPfBOhfNTVDv+uOXAh5rc9wfJFyMoesbjTBLYNndpLFJQGofHNyIMBjWWdHsd6+Nyvrdmn2GsdubvWk3OMjN2sdRdnDijWTB/JvDuJPtlDIte34Of5HDL6s9ch42CDBVpe8o4SCxiA"
+      }
+    }
+  ]
 }
