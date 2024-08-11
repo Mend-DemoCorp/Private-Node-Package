@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Mend-DemoCorp/Private-Node-Package#readme",
   "dependencies": {
     "fuzzball": "^2.1.2",
-    "lodash": "4.17.20"
+    "lodash": "4.17.21"
   }
 }
