@@ -1,6 +1,6 @@
 {
   "name": "@mend-democorp/private-node-package",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of a private node package",
   "main": "index.js",
   "scripts": {
